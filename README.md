@@ -1,5 +1,5 @@
 # TicTacToe
-## Programmed the classic Tic Tac Toe board game
+Programmed the classic Tic Tac Toe board game
 ## Features of the project:
   * Option for Human vs Human, or Human vs Computer play modes
   * Program checks validity of legal game moves
