@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hmack\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hmack\\.nuget\\packages"
+    ]
+  }
+}
